@@ -1,6 +1,6 @@
 # flutter_application_1
 
-Mobiilisovellukset ja niidenkehittäminen- kurssin loppuprojekti
+Mobiilisovellukset ja niiden kehittäminen- kurssin loppuprojekti
 
 Sovelluksessa kysytään kysymyksiä ja vertaillaan annettuja vastauksia haettuihin vastauksiin fitechin- omasta rajapinnasta.
 
